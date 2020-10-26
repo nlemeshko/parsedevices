@@ -1,0 +1,1 @@
+Parse devices from site
